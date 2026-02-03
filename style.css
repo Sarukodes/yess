@@ -29,6 +29,7 @@ h1 {
 }
 
 .buttons {
+  position: relative; 
   display: flex;
   justify-content: center;
   gap: 20px;
@@ -62,7 +63,7 @@ button:active {
 #no {
   background: #ef4444;
   color: white;
-  position: absolute;
+  position: relative; 
   box-shadow: 0 10px 20px rgba(239, 68, 68, 0.35);
 }
 
