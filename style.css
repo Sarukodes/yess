@@ -91,7 +91,6 @@ button:active {
   opacity: 0.7;
 }
 
-/* Different positions & delays */
 .hearts span:nth-child(1) {
   left: 10%;
   animation-delay: 0s;
@@ -119,7 +118,6 @@ button:active {
   animation-delay: 3s;
 }
 
-/* Floating animation */
 @keyframes floatUp {
   0% {
     transform: translateY(0);
@@ -133,5 +131,6 @@ button:active {
     opacity: 0;
   }
 }
+
 
 
