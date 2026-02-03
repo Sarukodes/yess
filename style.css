@@ -55,6 +55,7 @@ button:active {
 }
 
 #yes:hover {
+    margin-left: 50px;
   box-shadow: 0 14px 28px rgba(34, 197, 94, 0.45);
 }
 
